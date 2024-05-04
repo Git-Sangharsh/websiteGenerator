@@ -1,4 +1,4 @@
-#Text generation models
+# Text generation models
 
 ##Using OpenAI's text generation models, you can build applications to:
 
