@@ -1,6 +1,6 @@
 # Text generation models
 
-##Using OpenAI's text generation models, you can build applications to:
+## Using OpenAI's text generation models, you can build applications to:
 
 1. Draft documents
 2. Write computer code
